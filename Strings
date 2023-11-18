@@ -1,0 +1,46 @@
+# a= "harry's"
+# print(a)
+# b='''harry"s and harry's'''
+# print(b)
+a="GoodMorning"
+# b="Vedanshi"
+# c="You can achieve whatever you want in your life"
+# print(a +b +c)
+# print(c*3)
+# print(a[3]) #--> accessing string
+# print(a[0:4]) #-->slicing string
+# print(a[0:])  #-->same as a[0:12]
+# print(a[:12]) #--> same as a[0:12]
+# print(a[2:4:1])
+#string functions
+# quote =" Difficult roads often lead to beautiful destinations"
+# print(len(quote)) #prijnts the total no. of characters-->lenth
+# print(quote.endswith("ome")) 
+# print(quote.count("c"))
+# print(quote.capitalize())
+# print(quote.find("often"))
+# # new="Our deeds determine us as much as we determine our deeds"
+new="i hate a boy who does not hate me but hate some other girl,but i hate when he sees me and i also hate when he talks to me"
+print(new.replace("hate","love"))
+# old="You are kind,\thonest.\n You are great."
+# print(old)
+                                    #Questions
+              #Question1
+# p=input("Enter your name:\t")
+# v=",\tGOOD NIGHT\t"
+# print(p+v)
+              #Question2
+# letter=input("Enter your name:\n")
+# date=input("Enter date\n")
+# print(   "'''""Dear",letter,"","\n" "\t\tYou are selected !\n"  , "\t\t",date,"'''")
+               #Question3
+# st="Difficult roads often leads to beautiful  destinations." 
+# doubles = st.find("  ")
+# print(doubles)
+               #Question4
+# str="where there is a will,there is a way"
+# doubles = str.replace(" ","  ")
+# print(doubles)
+               #Question5
+stp ="\t\t Dear Harry,\n \t\t\t This python course is nice.\n\t\t\t Thanks!"
+print(stp)
